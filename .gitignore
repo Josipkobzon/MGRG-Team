@@ -1,7 +1,0 @@
-# Patientendaten NIEMALS ins Repository!
-BhP_*.json
-Behandlungsplan_*.json
-Wochenplan_*.json
-*_state.json
-node_modules/
-.DS_Store
