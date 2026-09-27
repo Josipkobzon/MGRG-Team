@@ -1,0 +1,9 @@
+{
+  "name": "mogere-wochenplan-mobil",
+  "private": true,
+  "type": "module",
+  "description": "MoGeRe Gold Wochenplan Mobil – PWA (kein Build nötig). package.json nur für lokale Tests.",
+  "scripts": {
+    "test": "node tests/compare-desktop.mjs"
+  }
+}
